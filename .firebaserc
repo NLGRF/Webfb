@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "notebase-ce13f",
+    "dht": "test-50cb2",
+    "WS": "website-c7411",
+    "data": "frweb-90738",
+    "robot": "robotclub-f6b4b",
+    "web": "webrobot-c8d45",
+    "rb": "robot-b359d",
+    "webb": "webbrowser-92801",
+    "t": "ledesp-70a3f"
+  }
+}

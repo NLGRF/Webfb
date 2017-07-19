@@ -1,0 +1,14 @@
+{
+  "database": {
+    "rules": "y"
+  },
+  "hosting": {
+    "public": "web_gfb",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
